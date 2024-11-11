@@ -14,6 +14,8 @@ This project is a starting point for a Flutter application.
 - CiruclarProgres / PageView
 - Gradients
 
+Download vertical videos from: https://www.pexels.com/search/videos/vertical/
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
